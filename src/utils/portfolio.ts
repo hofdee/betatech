@@ -75,9 +75,9 @@ export const navbarSection: NavbarSectionType = {
 // * Hero Section
 
 export const heroSection: HeroSectionType = {
-  subtitle: "Hello fren 👋, I'm ",
-  title: 'Gaurav Sarage.',
-  tagline: 'I create visually appealing interfaces on the web',
+  subtitle: "Hello fren 👋, We're ",
+  title: 'Betatech.',
+  tagline: 'Experience the future today!',
   description:
     "I'm a passionate Fullstack Web Developer having an experience of creating web applications using ReactJS & NextJS. ",
   specialText: "Organizer @The Phoenix Guild - Pune",
@@ -92,7 +92,7 @@ export const heroSection: HeroSectionType = {
 // * About Section
 
 export const aboutSection: AboutSectionType = {
-  title: 'about me',
+  title: 'about us',
   list: {
     title: 'Here are a few technologies I’ve been working with recently:',
     items: [
