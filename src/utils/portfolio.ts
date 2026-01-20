@@ -32,9 +32,9 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'Gaurav Sarage | Full-Stack Developer',
+  title: 'Betatech | The Future Today',
   description:
-    'Gaurav Sarage is a full-stack developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Betatech specializes in building and occasionally designing exceptional robust systems.',
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/85820227/231264058-df236c47-a8d2-4077-9fa6-3577aa18e8ca.png',
@@ -75,11 +75,11 @@ export const navbarSection: NavbarSectionType = {
 // * Hero Section
 
 export const heroSection: HeroSectionType = {
-  subtitle: "Hello fren 👋, We're ",
+  subtitle: "Hi there! 👋, We're ",
   title: 'Betatech.',
   tagline: 'Experience the future today!',
   description:
-    "I'm a passionate Fullstack Web Developer having an experience of creating web applications using ReactJS & NextJS. ",
+    "Betatech specializes in building and occasionally designing exceptional robust systems. ",
   specialText: "Organizer @The Phoenix Guild - Pune",
 
   cta: {
