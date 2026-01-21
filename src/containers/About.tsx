@@ -19,10 +19,9 @@ const About = () => {
       <main className="flex gap-16 items-center lg:items-start flex-col lg:flex-row">
         <div className="space-y-4 lg:w-3/5">
           <p>
-            Hi, my name is Gaurav Sarage, an artist as well as crazy full stack
-            web developer who wants to explore every tech stack.
+            BetaTech is a Zimbabwean technology company providing end-to-end IT, cloud, and digital transformation solutions. We partner with businesses, NGOs, and institutions to design and manage systems that are reliable, secure, and built for the future.
           </p>
-          <p>
+          { /* <p>
             Fast-forward to today, and I’ve had the privilege of working at a
             start-up -{' '}
             <Link
@@ -33,10 +32,10 @@ const About = () => {
               AirMenus
             </Link>
             .
-          </p>
+          </p> 
           <p>
             My goal is to become a blockchain developer and settle for a good remote job.
-          </p>
+          </p> */}
 
           {list && (
             <>

@@ -20,33 +20,33 @@ import { getId } from './helper';
  */
 
 export const socialLinks: StringKeyValueType = {
-  instagram: 'https://www.instagram.com/gauravv1902',
-  twitter: 'https://twitter.com/0xgauravv',
-  github: 'https://github.com/gaurav-sarage',
-  linkedin: 'https://www.linkedin.com/in/gaurav-sarage/',
+  instagram: 'https://www.instagram.com/betatech_zw',
+  twitter: 'https://twitter.com/betatech_zw',
+  github: 'https://github.com/betatech_zw',
+  linkedin: 'https://www.linkedin.com/in/betatech_zw/',
 };
 
 export const author = {
-  name: 'Gaurav Sarage',
-  email: 'gauravsarage.1902@gmail.com',
+  name: 'betatech',
+  email: 'info@betatech.co.zw',
 };
 
 export const seoData = {
   title: 'Betatech | The Future Today',
   description:
-    'Betatech specializes in building and occasionally designing exceptional robust systems.',
+    'Smart Technology Solutions for Zimbabwean Businesses.',
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/85820227/231264058-df236c47-a8d2-4077-9fa6-3577aa18e8ca.png',
   url: '',
   keywords: [
-    'Gaurav',
-    'Gaurav Sarage',
-    '@Gaurav Sarage',
-    'Gaurav Sarage',
+    'Betatech',
+    'Betech_zw',
+    'betatech zimbabwe',
+    'beta zimbabwe',
     'Portfolio',
-    'Gaurav Portfolio ',
-    'Gaurav Sarage Portfolio',
+    'Betatech Portfolio ',
+    'Sam Portfolio',
   ],
 };
 
@@ -79,11 +79,11 @@ export const heroSection: HeroSectionType = {
   title: 'Betatech.',
   tagline: 'Experience the future today!',
   description:
-    "Betatech specializes in building and occasionally designing exceptional robust systems. ",
-  specialText: "Organizer @The Phoenix Guild - Pune",
+    "Betatech specializes in building and designing exceptional robust systems.",
+  specialText: "Smart Technology Solutions for Zimbabwean Businesses",
 
   cta: {
-    title: 'see my resume',
+    title: 'See Our Work',
     url: `/${resumeFileName}`,
     hideInDesktop: true,
   },
@@ -92,25 +92,25 @@ export const heroSection: HeroSectionType = {
 // * About Section
 
 export const aboutSection: AboutSectionType = {
-  title: 'about us',
+  title: 'Who We Are - Betatech Zimbabwe',
   list: {
-    title: 'Here are a few technologies I’ve been working with recently:',
+    title: 'Services Overview:',
     items: [
-      'Next.js',
-      'React.js',
-      'TailwindCSS',
-      'Solidity',
-      'Cairo',
+      'IT infrastructure',
+      'Cloud',
+      'Cybersecurity',
+      'Automation',
+      'IoT',
       'Hardhat',
     ],
   },
-  img: '/gaurav-sarage.jpg',
+  img: '/gaurav-sarage.png',
 };
 
 // * Skills Section
 
 export const skillsSection: SkillsSectionType = {
-  title: 'what i do',
+  title: 'What We Do',
   skills: [
     {
       id: getId(),
@@ -166,7 +166,7 @@ export const skillsSection: SkillsSectionType = {
 // * Experience Section
 
 export const experienceSection: ExperienceSectionType = {
-  title: "My experience and volunteering",
+  title: "Our Story, Values and Approach",
   experiences: [
     {
       company: 'AirMenus',
